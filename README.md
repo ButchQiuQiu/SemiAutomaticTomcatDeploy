@@ -1,2 +1,0 @@
-# SemiAutomaticTomcatDeploy
-用于堡垒机的半自动war包部署脚本
